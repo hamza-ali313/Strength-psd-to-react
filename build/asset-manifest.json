@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ef3c8f57.css",
+    "main.js": "/static/js/main.6019c3cb.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/front-bg.png": "/static/media/front-bg.6f7753e7676d60f9fdf3.png",
+    "static/media/kangfoo-suit.png": "/static/media/kangfoo-suit.b6059c445aa1115566d9.png",
+    "static/media/best-seller-rigth.png": "/static/media/best-seller-rigth.785704a7b65da3d6c90d.png",
+    "static/media/best-seller-left.png": "/static/media/best-seller-left.9f57ce7ba46af524aadc.png",
+    "static/media/belt.png": "/static/media/belt.59606a920efe72d5ec53.png",
+    "static/media/Rocktough.png": "/static/media/Rocktough.263e69205b0eb5d072d9.png",
+    "static/media/FontsFree-Net-transcend-regular.ttf": "/static/media/FontsFree-Net-transcend-regular.7b670cc1b37de8344ea8.ttf",
+    "static/media/brownGloves.png": "/static/media/brownGloves.044e5462fe90863c5ab8.png",
+    "static/media/The Macabre.otf": "/static/media/The Macabre.154f1613953b2f7dc298.otf",
+    "static/media/blackGloves.png": "/static/media/blackGloves.585026101dcfb589ca61.png",
+    "static/media/belds.png": "/static/media/belds.1c032c21438e646c65e7.png",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.1c701c9a6b587802e3d0.ttf",
+    "static/media/11.png": "/static/media/11.ebd3e0051c93994c09a4.png",
+    "static/media/withRocktough.png": "/static/media/withRocktough.02395a9996d059ec7194.png",
+    "static/media/9.png": "/static/media/9.640669bdd16538acb16b.png",
+    "static/media/underware.png": "/static/media/underware.18b89967ac896b2d93aa.png",
+    "static/media/2.png": "/static/media/2.212f14614c31e2de7012.png",
+    "static/media/axes.png": "/static/media/axes.270038aa21e43549f392.png",
+    "static/media/10.png": "/static/media/10.2089d3cab9cccc676e46.png",
+    "static/media/Oswald-Bold.ttf": "/static/media/Oswald-Bold.868c5d61c398e88932d4.ttf",
+    "static/media/12.png": "/static/media/12.c1edb24fe6d4b1f875b3.png",
+    "static/media/Oswald-Light.ttf": "/static/media/Oswald-Light.6cf4d251d7ed2c6f354a.ttf",
+    "static/media/sock.png": "/static/media/sock.24e0dba26c2fe278f597.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.ef3c8f57.css.map": "/static/css/main.ef3c8f57.css.map",
+    "main.6019c3cb.js.map": "/static/js/main.6019c3cb.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef3c8f57.css",
+    "static/js/main.6019c3cb.js"
+  ]
+}
